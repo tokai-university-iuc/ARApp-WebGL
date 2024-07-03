@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5062406703221084744
+  m_GuidHigh: 13634780435882396038
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5617109805558982727
+      m_GuidHigh: 17755475485698715269
+    m_SerializedTextureGuid:
+      m_GuidLow: 2014290388929605138
+      m_GuidHigh: 9354621800109027416
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 0Cube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5326577002882837296
+      m_GuidHigh: 3169940355313812362
+    m_SerializedTextureGuid:
+      m_GuidLow: 18204849747990757344
+      m_GuidHigh: 1532471276625609723
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 1Mammoth
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5043934164938592075
+      m_GuidHigh: 15928099949158527420
+    m_SerializedTextureGuid:
+      m_GuidLow: 3622134102441943072
+      m_GuidHigh: 13041378459157517657
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 2SpaceShuttle
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5070204039162617209
+      m_GuidHigh: 6636179570073758085
+    m_SerializedTextureGuid:
+      m_GuidLow: 10318997285026370106
+      m_GuidHigh: 16473395059450560107
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 3Elephant
+    m_Texture: {fileID: 0}

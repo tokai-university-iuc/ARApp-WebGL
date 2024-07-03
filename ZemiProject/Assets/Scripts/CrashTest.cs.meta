@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca58e2d23a47e6543bf179ed905aed57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sphere: {instanceID: 0}
+  - StartMaterial: {fileID: 2100000, guid: 543a960401a75274fbef8257e486d1fd, type: 2}
+  - VertexMaterial: {fileID: 2100000, guid: 97b89fff835956d4e8c13c0f099fee9b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

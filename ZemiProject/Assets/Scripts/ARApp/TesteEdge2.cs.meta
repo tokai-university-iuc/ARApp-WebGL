@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9a24f2cb0122934ca95b8337f2e633f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cylinderPrefab: {fileID: 294421502343350229, guid: 4e1b29b70ad3a044f88ff0f99c9c01b1, type: 3}
+  - initialMaterial: {fileID: 2100000, guid: 9a77699966ca28c4cbdb0a183fc0aa80, type: 2}
+  - selectedMaterial: {fileID: 2100000, guid: 18bf6a6a5ae812542a2907376742ce0d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

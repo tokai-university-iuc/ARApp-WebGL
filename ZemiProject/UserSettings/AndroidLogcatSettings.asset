@@ -1,0 +1,165 @@
+{
+    "m_SelectedDeviceId": "R5CNA0X7N5F",
+    "m_SelectedPackage": {
+        "deviceId": "1C281FDF600DN0",
+        "name": "com.DefaultCompany.PolyhedronVR",
+        "processId": 14977,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 2668,
+            "exited": false
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 21738,
+            "exited": true
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 23006,
+            "exited": true
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 31505,
+            "exited": true
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 31837,
+            "exited": true
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 16818,
+            "exited": true
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 12323,
+            "exited": false
+        },
+        {
+            "deviceId": "8AJY0LNE9",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 14136,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.10.3:5555",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 10531,
+            "exited": true
+        },
+        {
+            "deviceId": "41051JEHN04976",
+            "name": "com.DefaultCompany.ZemiProject",
+            "processId": 11353,
+            "exited": false
+        },
+        {
+            "deviceId": "1C281FDF600DN0",
+            "name": "com.DefaultCompany.PolyhedronVR",
+            "processId": 13486,
+            "exited": true
+        },
+        {
+            "deviceId": "1C281FDF600DN0",
+            "name": "com.DefaultCompany.PolyhedronVR",
+            "processId": 6762,
+            "exited": true
+        },
+        {
+            "deviceId": "1C281FDF600DN0",
+            "name": "com.DefaultCompany.PolyhedronVR",
+            "processId": 7398,
+            "exited": true
+        },
+        {
+            "deviceId": "1C281FDF600DN0",
+            "name": "com.DefaultCompany.PolyhedronVR",
+            "processId": 21220,
+            "exited": true
+        },
+        {
+            "deviceId": "1C281FDF600DN0",
+            "name": "com.DefaultCompany.PolyhedronVR",
+            "processId": 14460,
+            "exited": true
+        },
+        {
+            "deviceId": "1C281FDF600DN0",
+            "name": "com.DefaultCompany.PolyhedronVR",
+            "processId": 14977,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "UnityMain",
+                "m_Selected": true
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
